@@ -24,7 +24,7 @@ def check_card():
         }), 400
 
     try:
-        api_url = "https://autoshopi.vercel.app/api/autosh?key=bruzely"
+        api_url = "https://kamalxd.com/shopify/sh.php"
         params = {
             'site': site,
             'cc': cc
