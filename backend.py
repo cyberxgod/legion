@@ -24,7 +24,7 @@ def check_card():
         }), 400
 
     try:
-        api_url = "https://autosh.arpitchk.shop/puto.php/"
+        api_url = "https://autoshopi.vercel.app/api/autosh?key=bruzely"
         params = {
             'site': site,
             'cc': cc
