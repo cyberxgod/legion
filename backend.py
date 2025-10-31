@@ -24,7 +24,7 @@ def check_card():
         }), 400
 
     try:
-        api_url = "https://kamalxd.com/shopify/sh.php"
+        api_url = "https://autoshopifyxd.onrender.com/index.php"
         params = {
             'site': site,
             'cc': cc
